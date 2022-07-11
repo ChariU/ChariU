@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😄 I'm Chariyaporn Umpornpan
+- 🌱 I'm currently a junior Computer Engineering student
