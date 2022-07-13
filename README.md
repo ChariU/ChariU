@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 😄 I'm Chariyaporn Umpornpan
 - 🌱 I'm currently a junior Computer Engineering student
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChariU&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ChariU&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats) -->
